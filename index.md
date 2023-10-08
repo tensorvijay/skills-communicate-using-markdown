@@ -3,6 +3,10 @@
 
 ![Image of_github](https://foundations.projectpythia.org/_images/GitHub-logo.png)
 
+``` javascript
+var myVar = "Hello, my world!";
+```
+
 
 
 
